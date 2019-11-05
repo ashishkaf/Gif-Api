@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+    image-rendering: optimizeSpeed;
+    border-image-width: 50px;
+    scroll-margin-right: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    width: 50%;
+  }
+h1 {
+    text-align-last: center;
+
+}
